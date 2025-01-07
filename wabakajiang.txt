@@ -1,1 +1,2 @@
 这是给每一个想要学习Git的Wabaka酱做的文本内容哦~祝各位成功！  --by XueLuoSakura
+嘿嘿嘿，这是一个分支合并测试！  --by PLSshenyun
